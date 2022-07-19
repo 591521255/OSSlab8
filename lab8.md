@@ -1,5 +1,6 @@
 ## 1: Getting Started
 Successful configuration and generation:
+![checkone](https://user-images.githubusercontent.com/49171429/179628674-c51fec3c-6095-4def-b540-e716ee7416da.png)
 
 Successful run of `cmake` in build folder:
 ![c1-2](https://user-images.githubusercontent.com/18493608/159081972-74e05b77-3f2a-4264-a984-513eae299e52.png)
